@@ -1,0 +1,15 @@
+header{
+  padding: 25px;
+  background-color: #000000;
+  color: #ffffff;
+}
+header div a{
+  color: white;
+  text-decoration: none;
+  background-color: #a5c760;
+  padding: 5px;
+  border-radius: 5px;
+}
+header div a:hover{
+  background-color: #1a7045;
+}
